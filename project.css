@@ -1,0 +1,12 @@
+body {
+    color: red;
+    background-color:black;
+    font-size: smaller;
+    font-size: 180%;
+
+}
+header {
+    width: 300px
+    height: 300px;
+    border: :read-only
+}
